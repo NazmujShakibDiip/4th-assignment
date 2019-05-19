@@ -1,0 +1,217 @@
+*{
+	margin: 0px ;
+	padding: 0px;
+}
+section{
+	width: 100%;
+	
+}
+.container{
+	
+	width: 1140px;
+	margin: 0px auto;
+	
+}
+header{
+	width: 100%;
+	float: left;
+}
+.logo{
+	width: 25%;
+	float: left;
+
+}
+.logo img
+{		width: 200px;
+		display: block;
+
+}
+.menu-bar{
+	float: left;
+}
+nav{
+
+}
+nav ul{
+
+list-style: none;
+
+margin: 36px 0px;
+}
+nav ul li{
+
+display: inline;
+
+font-size: 22px;
+
+margin: 20px;
+}
+nav ul li a{
+
+color: black;
+
+text-decoration: none;
+}
+
+.front{
+	width: 35%;
+	float: left;
+}
+.front ul{
+
+list-style: none;
+
+margin: 40px 0px;
+}
+.front ul li{
+
+display: inline;
+margin: 0px 20px;
+}
+.front ul li a{
+	color: black;
+	text-decoration: none;
+
+}
+.fa.fa-facebook
+{
+	background:blue;
+	padding: 4px 8px;
+	color: white;
+}
+.fa.fa-linkedin{
+	background:blue;
+	padding: 4px 8px;
+	color: white;
+
+}
+.fa.fa-snapchat-ghost{
+     background:yellow;
+	padding: 4px 8px;
+	color: white;
+}
+.fa.fa-sign-in{
+
+}
+.hero{
+	background:url(../img/wall.jpeg)no-repeat;
+	width: 100%;
+	float: left;
+	background-size: cover;
+
+}
+.banner{
+	margin: 10% 20px;
+	width: 400px;
+	background:#8080807d;
+	padding: 50px;
+
+}
+.banner h2{
+	color: white;
+	text-align: center;
+	padding-bottom: 12px;
+}
+.banner p{
+	color: white;
+	text-align: center;
+
+}
+.banner ul{
+	list-style: none;
+}
+.banner ul li{
+	display: inline;
+	margin: 23px;
+
+}
+.banner ul li a{
+	text-decoration: none;
+	padding: 2px;
+	background:green;
+	color: white;
+	font-size: 20px;
+}
+.icons{
+	width: 100%;
+	float: left;
+	padding:50px 0px;
+}
+.zone{
+	text-align: center;
+	width: 25%;
+	float: left;
+}
+.fa.fa-check-circle{
+	padding: 20px;
+	font-size: 20px;
+	background-color: purple;
+	border-radius: 43px;
+	font-size: 20px;
+	
+	
+}
+.zone h3{
+
+	}
+.zone p{
+
+}
+.zone ul{
+	list-style: none;
+
+}
+.zone ul li{
+	list-style: none;
+
+}
+.zone ul li a{
+	text-decoration: none;
+	padding: 2px;
+	color: white;
+	background:green;
+
+
+}
+.info{
+	width: 100%;
+	float: left;
+}
+.box{
+	width: 35%;
+	float: left;
+	margin: 4% 32px;
+	padding: 60px 50px;
+	background: #00800078;
+}
+.box ul{
+
+}
+.box ul li{
+
+}
+.box ul li a{
+	text-decoration: none;
+	list-style: none;
+	padding: 2px;
+	background: green;
+	color: white;
+	font-size: 20px;
+}
+.Button{
+	list-style: none;
+}
+.blog{
+	width: 100%;
+	float: left;
+}
+.colr{
+	background: grey;
+	margin: 40px 0px;
+	padding: 30px 0px;
+}
+.last{
+	width: 100%;
+	float: left;
+}
+
